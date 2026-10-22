@@ -1,9 +1,9 @@
 # BÀI LÀM – ÔN TẬP NGÀY 3
 
-- **Họ tên:**
-- **Lớp:**
-- **Link repository:**
-- **Hệ điều hành (Windows/macOS):**
+- **Họ tên:**NGUYỄN ĐĂNG HOÀNG
+- **Lớp:**CNTT1
+- **Link repository:
+- **Hệ điều hành (Windows/macOS):**WINDOWS
 
 ## Bài 1. README.md
 
@@ -22,8 +22,8 @@
 
 > Công thức được chấm trực tiếp trên file `data/hoc_phi_thang_10.xlsx`.
 
-- **Số dòng còn hiển thị sau khi lọc (câu d):**
-- **Câu e – Vì sao vùng tra cứu cần dấu $:**
+- **Số dòng còn hiển thị sau khi lọc (câu d):** 7 dòng
+- **Câu e – Vì sao vùng tra cứu cần dấu $:**Vì dấu $ khoá cứng vùng tra cứu lại thành tham chiếu tuyệt đối, giúp bảng tham chiếu luôn đứng yên tại một vị trí cố định khi áp dụng công thức cho toàn bộ danh sách. Nếu bỏ dấu $ rồi kéo công thức xuống thì vùng tra cứu sẽ bị trôi xuống theo từng dòng bên dưới. Bảng tra cứu sẽ bị lệch khỏi vị trí gốc, dẫn đến không tìm thấy dữ liệu và bị báo lỗi #N/A
 
 ## Tự chấm (điền sau khi có đáp án)
 
