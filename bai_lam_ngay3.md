@@ -2,7 +2,7 @@
 
 - **Họ tên:**NGUYỄN ĐĂNG HOÀNG
 - **Lớp:**CNTT1
-- **Link repository:
+- **Link repository:https://github.com/danghoang1904-source/K26-CNTT1-NH-P-M-N-CNTT-SS01-Buoi3.git
 - **Hệ điều hành (Windows/macOS):**WINDOWS
 
 ## Bài 1. README.md
