@@ -1,4 +1,3 @@
-Website Trung Tam Tieng Anh (TTA)
 Dự án website đăng ký khoá học của trung tâm tiếng Anh TTA, làm trong môn Nhập môn Công nghệ thông tin. Repo lưu tài liệu khoá học, lịch học, log hệ thống và bảng học phí tháng 10 chuẩn bị gửi kế toán.
 
 Cấu trúc thư mục
@@ -20,4 +19,3 @@ Việc cần làm
  Lọc log và tạo báo cáo lỗi, cảnh báo
  Hoàn thiện bảng học phí tháng 10
  Chạy chính thức website
-Lưu ý: file .env chứa dữ liệu bí mật của dự án, tuyệt đối không upload lên GitHub.
